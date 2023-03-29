@@ -225,7 +225,7 @@ public class NestedIfExample {
 
 ### 02、switch 语句
 
-switch 语句用来判断变量与多个值之间的相等性。变量的类型可以是 byte、short、int、long，或者对应的包装器类型 Byte、Short、Integer、Long，以及字符串和枚举。
+switch 语句用来判断变量与多个值之间的相等性。变量的类型可以是 byte、short、int、char，或者对应的包装器类型 Byte、Short、Integer、Char，以及字符串和枚举。
 
 来看一下 switch 语句的格式：
 
